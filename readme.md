@@ -11,6 +11,5 @@ This app was built for a minimum API 16 and max API 23. It uses Material Design'
  - When tapping on a list for the first, the list name is added as a task. That task can be deleted and will not be automatically added again on future openings of that list.
  - When typing a new task while the castle image is onscreen, the text clashes with the castle image.
  - In horizontal orientation, the castle text comes very close to the EditText field and could be laid out better.
- - The color of the floating action button is not as intended.
 
- ![alt text](https://github.com/roberrera/project1/blob/master/Project1-ToDoList/Screenshots/device-2016-01-24-211216%20(horizontal).png "Screenshot")
+ ![](https://github.com/roberrera/EpicTasksV1/blob/master/Screenshots/device-2016-01-24-211449%20\(vertical\).png)
